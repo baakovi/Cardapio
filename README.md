@@ -2,6 +2,8 @@
 
    <h1>Cardápio Online</h1>
 
+   <p><a href="https://cardapio-gules.vercel.app/">Link do projeto</a></p>
+
    <p>Projeto completo do zero utilizando HTML, CSS, Tailwind CSS e JavaScript. Com técnicas essenciais de desenvolvimento web, foi criado uma aplicação dinâmica e responsiva deste projeto completo.</p>
 
    <img src="template/Home.png" alt="Layout da página" />
